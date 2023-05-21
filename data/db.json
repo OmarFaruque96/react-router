@@ -1,0 +1,35 @@
+{
+    "careers":[
+        {
+            "id" : 1,
+            "title" : "Full Stack developer",
+            "salary" : 45000,
+            "location" : "London-UK"
+        },
+        {
+            "id" : 2,
+            "title" : "Flutter Developer",
+            "salary" : 55000,
+            "location" : "Bangladesh"
+        },
+        {
+            "id" : 3,
+            "title" : "Web Developer",
+            "salary" : 35000,
+            "location" : "Dhaka-BD"
+        },
+        {
+            "id" : 4,
+            "title" : "Web Designer",
+            "salary" : 20000,
+            "location" : "Rangpur-BD"
+        },
+        {
+            "id" : 5,
+            "title" : "PHP developer",
+            "salary" : 35000,
+            "location" : "Sylhet-BD"
+        }
+
+    ]
+}
